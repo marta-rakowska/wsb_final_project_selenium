@@ -23,3 +23,5 @@ As a proof that all tests work, I made screencasts that are available [here](htt
  
 Detailed test cases are available [here](https://docs.google.com/spreadsheets/d/1lvv_EVEm_fjS3nj3DHmuSeVQBUbBPSox/edit?usp=share_link&ouid=110133304186287068341&rtpof=true&sd=true).
 
+## Requirements
+To run the tests you need to download chromedriver compatible with your version of Chrome.
